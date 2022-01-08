@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/nft-preview-card-using-html-and-css-only-QYpuAkARh)
-- Live Site URL: [](https://awlihan-nft-card.netlify.app)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-using-html-and-css-only-QYpuAkARh)
+- Live Site URL: [Netlify](https://awlihan-nft-card.netlify.app)
 
 ## My process
 
