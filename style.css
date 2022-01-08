@@ -118,6 +118,11 @@ body {
 }
 
 /* Details | Price and Time */
+.details ul {
+  display: flex;
+  justify-content: space-between;
+}
+
 .details ul li {
   list-style: none;
   display: inline-block;
@@ -132,7 +137,6 @@ body {
 }
 
 .details ul li.time p {
-  padding-left: 10rem;
   color: var(--secondary-text-color);
 }
 
